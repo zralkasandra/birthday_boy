@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.css": "/birthday_boy/static/css/main.073c9b0a.css",
-    "main.js": "/birthday_boy/static/js/main.a43c5902.js",
+    "main.css": "/birthday_boy/static/css/main.310fd8ae.css",
+    "main.js": "/birthday_boy/static/js/main.d3f45c49.js",
     "static/js/787.9829caa0.chunk.js": "/birthday_boy/static/js/787.9829caa0.chunk.js",
+    "static/media/matrix.jpg": "/birthday_boy/static/media/matrix.4ed2099d6711f26616d2.jpg",
+    "static/media/option3.jpg": "/birthday_boy/static/media/option3.bafa6c64f6662c51f9b3.jpg",
+    "static/media/option4.jpg": "/birthday_boy/static/media/option4.650a5c8146ae95230113.jpg",
+    "static/media/oracle.jpg": "/birthday_boy/static/media/oracle.10a683e927c3cee8e379.jpg",
+    "static/media/option5.jpg": "/birthday_boy/static/media/option5.a81617f4c32d3b9ae91b.jpg",
+    "static/media/blue.jpg": "/birthday_boy/static/media/blue.daad5a637e412dab1819.jpg",
+    "static/media/option6.jpg": "/birthday_boy/static/media/option6.73926c1c9bf146cfd025.jpg",
+    "static/media/red.jpg": "/birthday_boy/static/media/red.be0c8ceaa9097cdbf3d0.jpg",
     "static/media/choose_wisely.jpg": "/birthday_boy/static/media/choose_wisely.56d7f562f660912e2304.jpg",
-    "static/media/logo.svg": "/birthday_boy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/option1.jpg": "/birthday_boy/static/media/option1.d5166354d05bf11f9ce4.jpg",
+    "static/media/button1.png": "/birthday_boy/static/media/button1.1e2b4109612e3fc7f072.png",
+    "static/media/option8.jpg": "/birthday_boy/static/media/option8.bfad33cce0cadbff84fd.jpg",
+    "static/media/option7.jpg": "/birthday_boy/static/media/option7.cc62763121b071604c3a.jpg",
     "index.html": "/birthday_boy/index.html",
-    "main.073c9b0a.css.map": "/birthday_boy/static/css/main.073c9b0a.css.map",
-    "main.a43c5902.js.map": "/birthday_boy/static/js/main.a43c5902.js.map",
+    "main.310fd8ae.css.map": "/birthday_boy/static/css/main.310fd8ae.css.map",
+    "main.d3f45c49.js.map": "/birthday_boy/static/js/main.d3f45c49.js.map",
     "787.9829caa0.chunk.js.map": "/birthday_boy/static/js/787.9829caa0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a43c5902.js"
+    "static/css/main.310fd8ae.css",
+    "static/js/main.d3f45c49.js"
   ]
 }
