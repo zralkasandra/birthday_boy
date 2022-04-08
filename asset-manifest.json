@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/birthday_boy/static/css/main.310fd8ae.css",
-    "main.js": "/birthday_boy/static/js/main.a7d9ee04.js",
+    "main.js": "/birthday_boy/static/js/main.47409964.js",
     "static/js/787.9829caa0.chunk.js": "/birthday_boy/static/js/787.9829caa0.chunk.js",
     "static/media/swp.png": "/birthday_boy/static/media/swp.6bfbdb07c1c055476d03.png",
     "static/media/rhpss.mp3": "/birthday_boy/static/media/rhpss.819d637178b09cbe035a.mp3",
@@ -20,7 +20,6 @@
     "static/media/ios.mp3": "/birthday_boy/static/media/ios.5c852cf4ca41333ad13d.mp3",
     "static/media/rebus.png": "/birthday_boy/static/media/rebus.61ee986127e478aebc0a.png",
     "static/media/sts.mp3": "/birthday_boy/static/media/sts.759b5fe76823521cbb56.mp3",
-    "static/media/stp.png": "/birthday_boy/static/media/stp.bcc4c0df8d7952297b00.png",
     "static/media/im.mp3": "/birthday_boy/static/media/im.74d26a19e959432dace2.mp3",
     "static/media/sweep.png": "/birthday_boy/static/media/sweep.8d57c141ac0f3eff659a.png",
     "static/media/mn.mp3": "/birthday_boy/static/media/mn.43e613843a6feaff3110.mp3",
@@ -32,6 +31,7 @@
     "static/media/arls.mp3": "/birthday_boy/static/media/arls.23c7f8e099bea71a7fb4.mp3",
     "static/media/horror.wav": "/birthday_boy/static/media/horror.dcf736c6890450ae7a8b.wav",
     "static/media/iop.png": "/birthday_boy/static/media/iop.8146dbb8acd9b5d8556b.png",
+    "static/media/stbg.jpg": "/birthday_boy/static/media/stbg.8518ca3d5eb4b56048ab.jpg",
     "static/media/mnp.png": "/birthday_boy/static/media/mnp.ffdb8e73cc338ba29bb4.png",
     "static/media/frs.mp3": "/birthday_boy/static/media/frs.6c5ca567d96dadb5e8e3.mp3",
     "static/media/drum.png": "/birthday_boy/static/media/drum.dfefe49f13a0879c8433.png",
@@ -42,6 +42,7 @@
     "static/media/fs.mp3": "/birthday_boy/static/media/fs.79b4b4552b6b2586f91a.mp3",
     "static/media/zombie.wav": "/birthday_boy/static/media/zombie.53d9b88da9159ab09d71.wav",
     "static/media/devil.wav": "/birthday_boy/static/media/devil.d2192f1cd31b69dd57c8.wav",
+    "static/media/stp.png": "/birthday_boy/static/media/stp.35437af71bdb3fbcdfcf.png",
     "static/media/stomp.wav": "/birthday_boy/static/media/stomp.325421862b9ca1685827.wav",
     "static/media/mnbg.jpg": "/birthday_boy/static/media/mnbg.f7b839bdc3e1d08f9530.jpg",
     "static/media/warewolf.png": "/birthday_boy/static/media/warewolf.e4c5140b9364a55d1c4e.png",
@@ -87,7 +88,6 @@
     "static/media/evan2.jpg": "/birthday_boy/static/media/evan2.770be0f5943ded02a3f2.jpg",
     "static/media/season10.jpg": "/birthday_boy/static/media/season10.a5dc1c4615b3a0e76fd9.jpg",
     "static/media/choose_wisely.jpg": "/birthday_boy/static/media/choose_wisely.56d7f562f660912e2304.jpg",
-    "static/media/stq.png": "/birthday_boy/static/media/stq.94bd1b362f8806188cc7.png",
     "static/media/titanicBg.jpg": "/birthday_boy/static/media/titanicBg.bd7f17f0f4b7c954040b.jpg",
     "static/media/rhpsq.png": "/birthday_boy/static/media/rhpsq.1ac2d8fa8c7013b1e5d8.png",
     "static/media/ioq.png": "/birthday_boy/static/media/ioq.c6795d508b9bd8f86443.png",
@@ -98,6 +98,7 @@
     "static/media/evan9.jpg": "/birthday_boy/static/media/evan9.e2de6d4eeb0d8bb4d689.jpg",
     "static/media/mnq.png": "/birthday_boy/static/media/mnq.2cdc21434ace5d717b59.png",
     "static/media/option1.jpg": "/birthday_boy/static/media/option1.d5166354d05bf11f9ce4.jpg",
+    "static/media/stq.png": "/birthday_boy/static/media/stq.a80d3cc5d83f2b14515d.png",
     "static/media/fq.png": "/birthday_boy/static/media/fq.80d48e5ee3cf8a589fae.png",
     "static/media/season3.jpg": "/birthday_boy/static/media/season3.8cd1d9bf3832f863ac7a.jpg",
     "static/media/button1.png": "/birthday_boy/static/media/button1.1e2b4109612e3fc7f072.png",
@@ -110,11 +111,11 @@
     "static/media/season9.jpg": "/birthday_boy/static/media/season9.515fb84fa7117563c6f8.jpg",
     "index.html": "/birthday_boy/index.html",
     "main.310fd8ae.css.map": "/birthday_boy/static/css/main.310fd8ae.css.map",
-    "main.a7d9ee04.js.map": "/birthday_boy/static/js/main.a7d9ee04.js.map",
+    "main.47409964.js.map": "/birthday_boy/static/js/main.47409964.js.map",
     "787.9829caa0.chunk.js.map": "/birthday_boy/static/js/787.9829caa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.310fd8ae.css",
-    "static/js/main.a7d9ee04.js"
+    "static/js/main.47409964.js"
   ]
 }
