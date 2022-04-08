@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/birthday_boy/static/css/main.310fd8ae.css",
-    "main.js": "/birthday_boy/static/js/main.680857f9.js",
+    "main.js": "/birthday_boy/static/js/main.75d8417e.js",
     "static/js/787.9829caa0.chunk.js": "/birthday_boy/static/js/787.9829caa0.chunk.js",
     "static/media/sweep.wav": "/birthday_boy/static/media/sweep.4c2f6d60007730c3814b.wav",
     "static/media/thunder.wav": "/birthday_boy/static/media/thunder.96b50f9894b49b3c6108.wav",
@@ -9,6 +9,7 @@
     "static/media/bodyCut.wav": "/birthday_boy/static/media/bodyCut.71ee59a7f7f0151f8614.wav",
     "static/media/wolf.wav": "/birthday_boy/static/media/wolf.b7ffd0da9130a1eb1ae7.wav",
     "static/media/drum.wav": "/birthday_boy/static/media/drum.f10b4010d55ea5af9751.wav",
+    "static/media/secret_place.jpg": "/birthday_boy/static/media/secret_place.f6037ee2e290ba531c72.jpg",
     "static/media/matrix.jpg": "/birthday_boy/static/media/matrix.4ed2099d6711f26616d2.jpg",
     "static/media/sweep.png": "/birthday_boy/static/media/sweep.8d57c141ac0f3eff659a.png",
     "static/media/evan8.jpg": "/birthday_boy/static/media/evan8.ab37d8d4741491c63d2f.jpg",
@@ -59,11 +60,11 @@
     "static/media/season9.jpg": "/birthday_boy/static/media/season9.515fb84fa7117563c6f8.jpg",
     "index.html": "/birthday_boy/index.html",
     "main.310fd8ae.css.map": "/birthday_boy/static/css/main.310fd8ae.css.map",
-    "main.680857f9.js.map": "/birthday_boy/static/js/main.680857f9.js.map",
+    "main.75d8417e.js.map": "/birthday_boy/static/js/main.75d8417e.js.map",
     "787.9829caa0.chunk.js.map": "/birthday_boy/static/js/787.9829caa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.310fd8ae.css",
-    "static/js/main.680857f9.js"
+    "static/js/main.75d8417e.js"
   ]
 }
